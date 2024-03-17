@@ -12,7 +12,7 @@
 </div>
 
 ## Projetos de Estudos
-Projetos feitos para práticar o que tenho aprendeido😍😍
+Projetos feitos para práticar o que tenho aprendido😍😍
 
 1. [Calculadora de IMC](https://github.com/[seu-usuario]/projeto1) ---> Calcule seu indice de massa corporal.
 
