@@ -14,6 +14,6 @@
 ## Projetos de Estudos
 Projetos feitos para práticar o que tenho aprendido😍😍
 
-- [Calculadora de IMC]() ---> Calcule seu indice de massa corporal.
+- [Calculadora de IMC](https://thaliamatos.github.io/calculadora-IMC/) ---> Calcule seu indice de massa corporal.
 - [Starbucks](https://thaliamatos.github.io/site-estudo-starbucks/) ---> Site feito para estudo📖.
 
