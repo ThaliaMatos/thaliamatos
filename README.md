@@ -11,9 +11,7 @@
   <img align="center" alt="thalia-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />          
 </div>
 
-## Projetos de Estudos
-Projetos feitos para práticar o que tenho aprendido😍😍
-
-- [Calculadora de IMC](https://thaliamatos.github.io/calculadora-IMC/) ---> Calcule seu indice de massa corporal.
-- [Starbucks](https://thaliamatos.github.io/site-estudo-starbucks/) ---> Site feito para estudo📖.
+## Meu Site
+Esse projeto foi feito para práticar o que tenho aprendido e também para divulgar os meus projetos😍😍.
+[Clique Aqui!](https://thaliamatos.github.io/Meu-site/)
 
